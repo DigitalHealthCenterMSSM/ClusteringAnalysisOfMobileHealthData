@@ -1,6 +1,6 @@
 # PSB-PIC Cluster Paper
 ### Here we share all the analyses [codes](https://github.com/DigitalHealthCenterMSSM/PSB-Cluster/PIC.R) we used in our [PSB Paper](https://psb.stanford.edu/psb-online/proceedings/psb17/tignor.pdf)
-
+-------------------------------------------------
 <p align="center">
 NICOLE TIGNOR <sup>1</sup>, PEI WANG1 <sup>1</sup>, NICHOLAS GENES <sup>1,2</sup>, LINDA ROGERS <sup>3</sup>, STEVEN G. HERSHMAN <sup>4</sup>, ERICK R. SCOTT <sup>1</sup>, MICOL ZWEIG <sup>1</sup>, YU-FENG YVONNE CHAN <sup>1,2</sup>, ERIC E. SCHADT <sup>1</sup>
 

@@ -1,4 +1,4 @@
-# PSB-PIC Cluster Paper
+# METHODS FOR CLUSTERING TIME SERIES DATA FROM MOBILE HEALTH APPS 
 ### Here we share all the analyses [codes](https://github.com/DigitalHealthCenterMSSM/PSB-Cluster/blob/master/PIC.R) we used in our [PSB Paper](https://psb.stanford.edu/psb-online/proceedings/psb17/tignor.pdf)
 -------------------------------------------------
 <p align="center">

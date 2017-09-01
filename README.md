@@ -36,4 +36,6 @@ Email: pei.wang@mssm.edu, eric.schadt@mssm.edu
 
 ## Index
 
+[Complete PIC R Code](https://github.com/DigitalHealthCenterMSSM/PSB-Cluster/blob/master/PIC.R/_FullPIC.R.md)
+
 

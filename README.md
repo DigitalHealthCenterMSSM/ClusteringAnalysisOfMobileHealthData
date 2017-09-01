@@ -7,8 +7,8 @@ NICOLE TIGNOR <sup>1</sup>, PEI WANG1 <sup>1</sup>, NICHOLAS GENES <sup>1,2</sup
 
 <p align="center">
 <sup>1</sup>
-Department of Genetics and Genomic Sciences
-Icahn School of Medicine at Mount Sinai, New York, NY, USA
+*Department of Genetics and Genomic Sciences
+Icahn School of Medicine at Mount Sinai, New York, NY, USA*
 </p>
 
 <p align="center">

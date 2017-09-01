@@ -8,6 +8,6 @@ NICOLE TIGNOR, PEI WANG1, NICHOLAS GENES, LINDA ROGERS, STEVEN G. HERSHMAN, ERIC
 
 ## Index
 
-[Complete PIC R Code](https://github.com/DigitalHealthCenterMSSM/PSB-Cluster/blob/master/PIC.R/_FullPIC.R.md)
+[Complete PIC R Code](https://github.com/DigitalHealthCenterMSSM/ClusteringAnalysisOfMobileHealthData/blob/master/PIC.R/_FullPIC.R.md)
 
 
